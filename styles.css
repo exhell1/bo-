@@ -1,0 +1,16 @@
+
+.container{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aquamarine;  }
+    
+ 
+.resim{
+    max-width: 25%;
+    height: 20;}
+    .container{
+        display:flex;
+        justify-content: center;
+    }
